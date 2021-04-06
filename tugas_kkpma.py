@@ -7,6 +7,16 @@ Original file is located at
     https://colab.research.google.com/drive/1htW77gnKvKZMtSzWZ6OYF1-vy1aOpV27
 """
 
+"""
+Kelompok 2 :
+
+BAYU ANUGERAH PUTRA (20/466399/PPA/05965)
+DHIANI WIDIYA PRAMESTI (20/466401/PPA/05967)
+FRANKI HALBERD (20/466406/PPA/05972)
+HARRY PRIBADI FITRIAN (20/466410/PPA/05976)
+
+"""
+
 import math
 import random as rd
 import numpy as np
@@ -452,5 +462,3 @@ print("result of the best generation :")
 print("a : " + str(newPopulation[0]["a"]))
 print("b : " + str(newPopulation[0]["b"]))
 print("c : " + str(newPopulation[0]["c"]))
-
-"""Coba Implementasi GA by Franki Halberd """
